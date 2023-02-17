@@ -1,0 +1,1 @@
+run = "g++ -w login.cpp hashtbl.cpp listlnk.cpp -o output; ./output"
